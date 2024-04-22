@@ -25,7 +25,7 @@ To run this app on your local machine:
 5. Scan the QR code using the Expo Go app on your mobile device.
 
 ## Video Demonstration
-[Watch the video demonstration]([https://www.youtube.com/watch?v=your-video-id](https://youtube.com/shorts/EeyJA0T9__s?feature=share))
+https://youtube.com/shorts/EeyJA0T9__s?feature=share
 
 ## Code
 ### App.js
