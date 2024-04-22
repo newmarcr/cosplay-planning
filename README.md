@@ -12,9 +12,10 @@ This mobile app allows users to plan and organize their cosplay ideas.
 - View a list of all cosplay ideas.
 
 ## Screenshots
-![Screenshot 1](IMG_6075.PNG)
-![Screenshot 2](IMG_6073.PNG)
-![Screenshot 2](IMG_6074.PNG)
+
+https://github.com/newmarcr/cosplay-planning/blob/f6f112f29049d00043582753fe4df8f8100ab836/IMG_6075.PNG
+https://github.com/newmarcr/cosplay-planning/blob/f6f112f29049d00043582753fe4df8f8100ab836/IMG_6073.PNG
+https://github.com/newmarcr/cosplay-planning/blob/f6f112f29049d00043582753fe4df8f8100ab836/IMG_6074.PNG
 
 ## How to Run
 To run this app on your local machine:
